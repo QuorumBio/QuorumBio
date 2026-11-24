@@ -8,6 +8,7 @@ Small, permissively licensed biology models with reproducible training, ONNX exp
 **Models**
 - [biomedical-ner-chemical-disease](https://huggingface.co/quorumbio/biomedical-ner-chemical-disease): Chemical and Disease NER for biomedical text (Apache-2.0). [Browser demo](https://huggingface.co/spaces/quorumbio/biomed-ner-demo)
 - [esm2-protein-subcellular-localization-signal-peptide](https://huggingface.co/quorumbio/esm2-protein-subcellular-localization-signal-peptide): protein localization and signal peptide prediction (Apache-2.0). [Browser demo](https://huggingface.co/spaces/quorumbio/protein-localization-demo)
+- [esm2-650m-protein-subcellular-localization-signal-peptide](https://huggingface.co/quorumbio/esm2-650m-protein-subcellular-localization-signal-peptide): larger ESM-2 650M version (slightly better location ranking, about 4x larger)
 - [biomedical-ner-gene-chemical-disease-species](https://huggingface.co/quorumbio/biomedical-ner-gene-chemical-disease-species): one model for genes, chemicals, diseases, species, variants and cell lines (Apache-2.0). [Browser demo](https://huggingface.co/spaces/quorumbio/biomedical-ner-6-types-demo)
 - [biomedical-ner-gene-chemical-disease-species-small](https://huggingface.co/quorumbio/biomedical-ner-gene-chemical-disease-species-small): 6-layer distilled version (66.8 MB int8, about 2x faster)
 
